@@ -11,3 +11,5 @@ Office Location: Austin
 Hire Status: Existing user (Transfer)
 #Position statuses that work in my script are; Permanent, Contractor & Temporary
 Position Status: Temporary
+#This is an exmple the ticket number generated from my ticketing system. I use it to reply back to the hiring manager with users new user's AD and gmail login info 
+Request ID: 92224
