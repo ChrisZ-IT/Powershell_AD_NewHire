@@ -1,0 +1,13 @@
+#Save this file to your desktop. You may need to remove comments from it.
+
+Username: Test User
+Title: Test Title
+Department: Test Department
+Manager: Test Manager
+Similar User: Test Similar User
+#Offices That work in my script are; Atlanta, Austin, Charlotte, Denver, San Deigo, Seattle, Remote & Other
+Office Location: Austin
+#Hire statuses that work in my script are; Existing user (Transfer), Former user (rehire), & New User
+Hire Status: Existing user (Transfer)
+#Position statuses that work in my script are; Permanent, Contractor & Temporary
+Position Status: Temporary
