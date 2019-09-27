@@ -20,9 +20,9 @@ gmail accounts. the txt file is to copy and paste that info to your ticketing sy
 
 5. If you need to create multiple users at once just do repeat steps 3 and 4 for each user you need to create.
 
-# 'Limitations' of my scripts is I have my script stop if the Hire status does not match the corresponding script; ‘New Hire’ status users need to be run with the NewUser_Vx.x script, Rehire with the rehire script.
-# Iv kept these separate on my on my end to keep me more organized. Nothing would really prevent you from combining all 3 new/re/transfer scripts.
-# you would just need to update/add a bunch of if/elseif and else commands to allow it to complete and to tell it what to check against.
+#'Limitations' of my scripts is I have my script stop if the Hire status does not match the corresponding script; ‘New Hire’ status users need to be run with the NewUser_Vx.x script, Rehire with the rehire script.
+#Iv kept these separate on my on my end to keep me more organized. Nothing would really prevent you from combining all 3 new/re/transfer scripts.
+#you would just need to update/add a bunch of if/elseif and else commands to allow it to complete and to tell it what to check against.
 
 
 
