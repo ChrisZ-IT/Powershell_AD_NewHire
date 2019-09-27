@@ -1,4 +1,4 @@
-### Script to update existing user in AD using MS's AD cmdlts###
+### Script to update existing user in AD in a multi domain environment using MS's AD cmdlts###
 ### Author: ChrisZ-IT ###
 ### Version: 2.2 ###
 ### Created 05.02.2019; Updated: 06.04.2019 ###
