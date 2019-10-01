@@ -34,6 +34,7 @@ Each script has some way to verify if accounts exist and are active and are not 
 
 
 ##As for the TermUser script.
+
 #Assuming you have updated the script with your own domain info 
 I have a built in GUI that pops up that have you type in the user's name that is getting termed and it will  will verify if their account exists with in a multi domain environment, if its not on the domain you have set for ‘domain1’ it will tell you to run the script from there
 remove them from all AD groups, Set their description to the date they were termed, it will verify what file server their H drive is on and then archive it to a hidden share (assuming you update this info as well), it will also disable their account and log the term to a csv file on a network share.
