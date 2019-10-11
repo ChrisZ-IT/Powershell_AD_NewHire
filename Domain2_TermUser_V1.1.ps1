@@ -1,4 +1,4 @@
-### Script for finding finding and then disabling stale Domain2 domain computers using Quest's AD cmdlts###
+### Script for disabling AD users on Domain2 using Quest's AD cmdlts###
 ### Author: ChrisZ-IT ###
 ### Version: 1.1 ###
 ### Created 06.09.2016 ###
